@@ -17,9 +17,9 @@ response = requests.get(<above-url>, headers=HEADERS)
     * Top 3 public repo contributors are working for Apple, MMTechSoft & Stealth Startup
     * They had most of the contributions in Javascript, Java, Scala and HTML in this order
     * Github Users from Hyderabad working in Google, did not have a single repository published
-
+![Logo](Project-1-Findings.jpg)
       
 3. An actionable recommendation for developers based on your analysis: ?
 
 
-![Logo](Project-1-Findings.jpg)
+
