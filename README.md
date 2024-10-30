@@ -18,7 +18,8 @@ response = requests.get(<above-url>, headers=HEADERS)
 
 ### 2. Some facts discovered from the analysis:
 
-  <li>   Top 3 public repo contributors are working for Apple, MMTechSoft & Stealth Startup
+  <li>   Top 3 public repo contributors are working for <span style="background-color: yellow"> Apple, MMTechSoft & Stealth Startup </span>
+
 </li>
           <li>    They had most of the contributions in Javascript, Java, Scala and HTML in this order
 </li>
