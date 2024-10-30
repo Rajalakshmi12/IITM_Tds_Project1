@@ -21,7 +21,6 @@ response = requests.get(<above-url>, headers=HEADERS)
           <li>    They had most of the contributions in Javascript, Java, Scala and HTML in this order
 </li>
           <li>    Github Users from Hyderabad working in Google, did not have a single repository published
-
 </li>
 </ul>
 </p>
