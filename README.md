@@ -10,6 +10,12 @@ USERS: "https://api.github.com/search/users?q=location:Hyderabad+followers:>50&p
 
 REPOSITORIES: "https://api.github.com/users/{cur_user}/repos?per_page=100&page={current_page}"
 
+response = requests.get(<above-url>, headers=HEADERS)
+
    
-4.  Most interesting and surprising fact: No repos in Google
-5.  An actionable recommendation for developers based on your analysis
+2.  Some facts from the analysis:
+    * Github Users from Hyderabad with more than 50 followers working in Google , did not have a single repository published
+    * Top 3 public repo contributors are working for Apple, MMTechSoft &  Stealth Startup
+    * They had most of the contributions in Java, Scala and Javascript in this order
+      
+3. An actionable recommendation for developers based on your analysis: ?
