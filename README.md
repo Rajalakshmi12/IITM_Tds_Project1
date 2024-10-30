@@ -7,9 +7,9 @@ I scraped the data from the Github site using the github API with a personal acc
                         "Accept": "application/vnd.github.v3+json"
              }
       
-USERS: "https://api.github.com/search/users?q=location:Hyderabad+followers:>50&per_page=100&page={cur_page}"
+USERS: https://api.github.com/search/users?q=location:Hyderabad+followers:>50&per_page=100&page={cur_page}
 
-REPOSITORIES: "https://api.github.com/users/{cur_user}/repos?per_page=100&page={current_page}"
+REPOSITORIES: https://api.github.com/users/{cur_user}/repos?per_page=100&page={current_page}
 
 response = requests.get(<above-url>, headers=HEADERS)
 
