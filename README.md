@@ -1,9 +1,6 @@
 # IITM_Tds_Project1
-Tools in Data Science - Project 1 Assignment
 
-
-README.md must begin with 3 bullet points. Each bullet must be one sentence no more than 50 words.
-
-An explanation of how you scraped the data
-The most interesting and surprising fact you found after analyzing the the data
-An actionable recommendation for developers based on your analysis
+1. Scraping mechanism: I scraped the data from the Github site using the github API with the personal access token.
+2.  d
+3.  Most interesting and surprising fact: No repos in Google
+4.  An actionable recommendation for developers based on your analysis
