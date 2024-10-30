@@ -12,12 +12,18 @@ REPOSITORIES: "https://api.github.com/users/{cur_user}/repos?per_page=100&page={
 
 response = requests.get(<above-url>, headers=HEADERS)
 
-   <p align="center">
+   <p align="left">
+<ul>
 2.  Some facts discovered from the analysis:
-    * Top 3 public repo contributors are working for Apple, MMTechSoft & Stealth Startup
-    * They had most of the contributions in Javascript, Java, Scala and HTML in this order
-    * Github Users from Hyderabad working in Google, did not have a single repository published
-   </p>
+          <li>    * Top 3 public repo contributors are working for Apple, MMTechSoft & Stealth Startup
+</li>
+          <li>    * They had most of the contributions in Javascript, Java, Scala and HTML in this order
+</li>
+          <li>    * Github Users from Hyderabad working in Google, did not have a single repository published
+
+</li>
+</ul>
+</p>
       
 ![Logo](Project-1-Findings.jpg)
       
