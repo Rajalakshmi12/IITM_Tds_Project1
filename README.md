@@ -28,8 +28,8 @@ response = requests.get(<above-url>, headers=HEADERS)
 </p>
       
 ![Logo](Project-1-Findings.jpg)
-      
-3. An actionable recommendation for developers based on your analysis: ?
+
+### 3. An actionable recommendation for developers based on your analysis: ?
 
 
 
