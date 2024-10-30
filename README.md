@@ -23,4 +23,4 @@ response = requests.get(<above-url>, headers=HEADERS)
       
 3. An actionable recommendation for developers based on your analysis: ?
 
-![Logo of the project](images/Project-1-Findings.jpg)
+(images/Project-1-Findings.jpg)
