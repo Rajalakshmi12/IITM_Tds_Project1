@@ -1,4 +1,4 @@
-## IITM Tools in Data Science Prohect 1
+## IITM Tools in Data Science Project 1 - Hyderabad 50
 
 1. Scraping mechanism: I scraped the data from the Github site using the github API with a personal access token.
           GITHUB_TOKEN =  '<personal-token>'
