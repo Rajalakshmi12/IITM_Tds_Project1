@@ -7,6 +7,7 @@
           }
    
 USERS: "https://api.github.com/search/users?q=location:Hyderabad+followers:>50&per_page=100&page={cur_page}"
+
 REPOSITORIES: "https://api.github.com/users/{cur_user}/repos?per_page=100&page={current_page}"
 
    
