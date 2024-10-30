@@ -1,6 +1,6 @@
 ## IITM Tools in Data Science Project 1 - Hyderabad 50
 
-### 1. Scraping mechanism <a href="https://github.com/Rajalakshmi12/IITM_Tds_Project1/blob/main/TDS-Project1.ipynb">
+### 1. Scraping mechanism <a href="https://github.com/Rajalakshmi12/IITM_Tds_Project1/blob/main/TDS-Project1.ipynb">(Colab)</a>
 
 I scraped the data from the Github site using the github API with a personal access token <br>
              GITHUB_TOKEN =  'personal-token' <br>
