@@ -1,4 +1,4 @@
-## IITM_Tds_Project1
+## IITM Tools in Data Science Prohect 1
 
 As of May 2024, Ryujinx has been tested on a
 
