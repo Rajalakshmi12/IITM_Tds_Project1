@@ -15,6 +15,7 @@ response = requests.get(<above-url>, headers=HEADERS)
 
    <p align="left">
 <ul>
+
 ### 2. Some facts discovered from the analysis:
 
   <li>   Top 3 public repo contributors are working for Apple, MMTechSoft & Stealth Startup
