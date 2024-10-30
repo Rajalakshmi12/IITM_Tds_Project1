@@ -2,7 +2,7 @@
 
 ### 1. Scraping mechanism ###
 I scraped the data from the Github site using the github API with a personal access token <br>
-             GITHUB_TOKEN =  '<personal-token>' <br>
+             GITHUB_TOKEN =  'personal-token' <br>
              HEADERS = {'Authorization': f"token {GITHUB_TOKEN}", <br>
                         "Accept": "application/vnd.github.v3+json" <br>
              } <br>
