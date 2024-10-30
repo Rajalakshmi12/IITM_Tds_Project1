@@ -21,3 +21,5 @@ response = requests.get(<above-url>, headers=HEADERS)
     * They had most of the contributions in Java, Scala and Javascript in this order
       
 3. An actionable recommendation for developers based on your analysis: ?
+
+![Logo of the project](images/logo.png)
