@@ -34,7 +34,12 @@ response = requests.get(<above-url>, headers=HEADERS)
 
 ### 3. An actionable recommendation for developers based on your analysis:
 #### Importance of README
-#### Quick summary of the Analysis
+
+#### Quick summary of the Analysis:
+1. Connected to the Github API to get the README.md content using the repository name
+2. The resultant JSON has a field called 'content' to fetch the readme content from the respective repository
+3. Added
+4. Finding correlation between the presence of images/links vs the stargazers count
 
 
 
