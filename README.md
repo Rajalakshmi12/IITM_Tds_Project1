@@ -40,6 +40,7 @@ Language with the most README word count and Images: JavaScript
 <ul>
   <li> It shows that a well-crafted README file, with links or images in it has more followers</li>
 </ul>
+
 #### Quick summary of the Analysis:
 1. Connected to the Github API to get the README.md content using the repository name
 2. The resultant JSON has a field called 'content' to fetch the readme content from the respective repository
