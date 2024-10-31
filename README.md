@@ -34,6 +34,7 @@ response = requests.get(<above-url>, headers=HEADERS)
 
 ### 3. An actionable recommendation for developers based on your analysis:
 #### Importance of README
+#### Quick summary of the Analysis
 
 
 
