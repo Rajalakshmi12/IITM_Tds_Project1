@@ -38,7 +38,8 @@ response = requests.get(<above-url>, headers=HEADERS)
 Language with the most README word count and Images: JavaScript
 
 <ul>
-  <li> It shows that a well-crafted README file, with links or images in it has more followers</li>
+  <li> <span style="background-color: lightgreen;">This is the text highlighted in light green.</span>
+It shows that a well-crafted README file, with links or images in it has more followers</li>
 </ul>
 
 #### Quick summary of the Analysis:
