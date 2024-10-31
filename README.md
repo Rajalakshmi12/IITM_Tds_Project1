@@ -34,7 +34,7 @@ response = requests.get(<above-url>, headers=HEADERS)
 
 ### 3. An actionable recommendation for developers based on your analysis:
 #### Importance of README
-<a href="https://github.com/Rajalakshmi12/IITM_Tds_Project1/blob/main/my_repo_finding.csv"> YES </a>
+<a href="https://github.com/Rajalakshmi12/IITM_Tds_Project1/blob/main/my_repo_finding.csv"> CSV generated for rating analysis </a>
 
 
 #### Quick summary of the Analysis:
