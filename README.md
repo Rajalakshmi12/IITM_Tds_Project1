@@ -38,7 +38,7 @@ response = requests.get(<above-url>, headers=HEADERS)
 #### Quick summary of the Analysis:
 1. Connected to the Github API to get the README.md content using the repository name
 2. The resultant JSON has a field called 'content' to fetch the readme content from the respective repository
-3. Added
+3. Added two new fields called as 'Images' and 'Word count of the readme'
 4. Finding correlation between the presence of images/links vs the stargazers count
 
 
