@@ -35,11 +35,11 @@ response = requests.get(<above-url>, headers=HEADERS)
 ### 3. An actionable recommendation for developers based on your analysis:
 #### Importance of README
 <a href="https://github.com/Rajalakshmi12/IITM_Tds_Project1/blob/main/my_repo_finding.csv"> CSV generated for rating analysis </a>
-Language with the most README word count and Images: JavaScript
+Language with the most README word count and Images: JavaScript**
 
 <ul>
-  <li> <span style="background-color: lightgreen;">This is the text highlighted in light green.</span>
-It shows that a well-crafted README file, with links or images in it has more followers</li>
+<li>
+  It shows that a well-crafted README file, with links or images in it has more followers</li>
 </ul>
 
 #### Quick summary of the Analysis:
