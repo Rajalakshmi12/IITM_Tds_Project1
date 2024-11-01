@@ -38,8 +38,9 @@ response = requests.get(<above-url>, headers=HEADERS)
 Language with the most README word count and Images: JavaScript
 
 <ul>
-<li>
-  ### Most of the repositories which has images in the README file has good number of followers and forks, along with good rating. A well-crafted README file helps users to understand the purpose of the Repository at a glance and attracts users to follow for further contributions</li>
+<li><strong>
+  Most of the repositories which has images in the README file has good number of followers and forks, along with good rating. A well-crafted README file helps users to understand the purpose of the Repository at a glance and attracts users to follow for further contributions
+</strong></li>
 </ul>
 
 #### Quick summary of the Analysis:
